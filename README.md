@@ -39,7 +39,7 @@ If you face a problem that the image is not loading in the web page then please 
 
 1. Add the referer control extension to your google chrome browser. This is the link : (https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin)
 
-2. In the enter site box, enter the following url www.sofifa.com/ .
+2. Scroll down to the default referer for for all sites option.
 
 3.  Select referer setting as custom and choose the option as target host.
 
